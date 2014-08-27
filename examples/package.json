@@ -1,0 +1,9 @@
+{
+  "name": "donuts-are-delicious",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-imagemin": "^0.8.0",
+    "grunt-contrib-sass": "^0.7.3"
+  }
+}
